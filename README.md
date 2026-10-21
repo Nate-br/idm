@@ -11,11 +11,11 @@
 -RENAME IT TO IDMAN
 
 -RUN 
-  reg add "HKCU\Software\DownloadManager" /v FName   /t REG_SZ /d "FNAME" /f
-  reg add "HKCU\Software\DownloadManager" /v LName   /t REG_SZ /d "LNAME" /f
-  reg add "HKCU\Software\DownloadManager" /v Email   /t REG_SZ /d "4821.7390@tonec.com" /f
-  reg add "HKCU\Software\DownloadManager" /v Serial  /t REG_SZ /d "L1KMV-492Z8-QHIWP-DEYG7" /f
-  reg add "HKCU\Software\DownloadManager" /v idmvers /t REG_SZ /d "v6.43b15 Full" /f
+ - reg add "HKCU\Software\DownloadManager" /v FName   /t REG_SZ /d "FNAME" /f
+ - reg add "HKCU\Software\DownloadManager" /v LName   /t REG_SZ /d "LNAME" /f
+ - reg add "HKCU\Software\DownloadManager" /v Email   /t REG_SZ /d "4821.7390@tonec.com" /f
+ - reg add "HKCU\Software\DownloadManager" /v Serial  /t REG_SZ /d "L1KMV-492Z8-QHIWP-DEYG7" /f
+ - reg add "HKCU\Software\DownloadManager" /v idmvers /t REG_SZ /d "v6.43b15 Full" /f
 
   IN POWERSHELL AS ADMINISTRATOR
  
