@@ -10,3 +10,4 @@ Batch script for Internet Download Manager (IDM) registry configuration and acti
 Run `lastfix.bat` as Administrator in Command Prompt.
 
 ## Write up
+`Natnael Sisay IDM Registration.pdf`
